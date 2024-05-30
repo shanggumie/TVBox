@@ -23,3 +23,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/�
 https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
+
+
+https://gitcdn.top/https://github.com/shanggumie/tvbox/main/R18.json
